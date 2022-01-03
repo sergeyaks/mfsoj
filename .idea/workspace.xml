@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba034b43-415b-4af5-8d03-740e6dad112e" name="Changes" comment="Error DEBUG" />
+    <list default="true" id="ba034b43-415b-4af5-8d03-740e6dad112e" name="Changes" comment="Error DEBUGv 2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641197606887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Error DEBUGv 2.0">
+      <created>1641197974749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641197974749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Error DEBUG" />
-    <option name="LAST_COMMIT_MESSAGE" value="Error DEBUG" />
+    <MESSAGE value="Error DEBUGv 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Error DEBUGv 2.0" />
   </component>
 </project>
